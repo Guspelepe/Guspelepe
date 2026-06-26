@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Guspelepe 😁
+## Meu nome é Gustavo Duanny Pelepe, estou tentando me tornar programador algum dia por favor me ajude 😁
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guspelepe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
