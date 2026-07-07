@@ -1,9 +1,9 @@
 ## Meu nome é Gustavo Duanny Pelepe, estou tentando me tornar programador algum dia por favor me ajude 😁
 
-  <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guspelepe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guspelepe&show_icons=true&theme=radical&locale=pt-br&cache_seconds=86400"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guspelepe&layout=compact&langs_count=6&theme=tokyonight&include_forks=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guspelepe&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=86400"/>
 </div>
     
 <div style="display: inline_block"><br>
