@@ -4,7 +4,7 @@
 
 <br>
 
-### 📊 DISTRIBUIÇÃO DE LINGUAGENS (MOST USED)
+### 📊 DISTRIBUIÇÃO DE LINGUAGENS MAIS USADAS
 
 🎨 **CSS3** ─── 40%
 ████████████████░░░░░░░░░░░░░░░░░░░░░░░░
