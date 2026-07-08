@@ -3,7 +3,7 @@
 > _Desenvolvedor em construção. Focado em aprender programação e me tornar alguém do qual me orgulho 🚀_
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guspelepe&layout=compact&theme=tokyonight&hide_border=true" alt="Guspelepe Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guspelepe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Guspelepe Top Languages" />
 </p>
 
 <br>
