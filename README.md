@@ -1,10 +1,22 @@
 # ─── ⚡ GUSTAVO DUANNY PELEPE ───
 
-> _Desenvolvedor em construção. Focado em aprender programação e me tornar alguém do qual me orgulho 🚀_
+> _Estudando programação com o intuito de, algum dia, poder trabalhar remotamente para o exterior 🚀_
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guspelepe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Guspelepe Top Languages" />
-</p>
+<br>
+
+### 📊 DISTRIBUIÇÃO DE LINGUAGENS (MOST USED)
+
+🎨 **CSS3** ─── 40%
+████████████████░░░░░░░░░░░░░░░░░░░░░░░░
+
+🐍 **Python** ── 35%
+██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+🌐 **HTML5** ── 20%
+████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+🟨 **JavaScript** ─ 5%
+██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 <br>
 
