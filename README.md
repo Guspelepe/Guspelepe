@@ -23,7 +23,7 @@
 
 * **HTML & CSS:** ██████▓▒░░ _[Intermediário]_
 * **Python:** ████▓▒░░░░ _[Básico]_
-* **JavaScript:** █▒░░░░░░░░ _[Bem Iniciante]_
+* **JavaScript:** █▒░░░░░░░░ _[Iniciante]_
 
 <br>
 
