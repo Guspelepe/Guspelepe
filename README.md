@@ -1,10 +1,14 @@
-## Meu nome é Gustavo Duanny Pelepe, estou tentando me tornar programador algum dia por favor me ajude 😁
+# ─── ⚡ GUSTAVO DUANNY PELEPE ───
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guspelepe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+>_ Desenvolvedor em construção. Focado em aprender programação e construir o futuro. 🚀
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guspelepe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guspelepe&layout=compact&langs_count=6&theme=tokyonight&include_forks=true&cache_seconds=86400"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guspelepe&layout=compact&langs_count=6&theme=barmy&include_forks=true&cache_seconds=86400"/>
+</p>
+
+// TECNOLOGIAS E FERRAMENTAS
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
