@@ -3,7 +3,7 @@
 > _Desenvolvedor em construção. Focado em aprender programação e me tornar alguém do qual me orgulho 🚀_
 
 <p align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Guspelepe&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guspelepe&layout=compact&theme=dracula&hide_border=true" alt="Guspelepe Top Languages" />
 </p>
 
 <br>
