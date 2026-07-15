@@ -1,26 +1,24 @@
-# ─── ⚡ GUSTAVO DUANNY PELEPE ───
-
-> _Estudando programação com o intuito de, algum dia, poder trabalhar remotamente para o exterior 🚀_
+# ───  GUSTAVO DUANNY PELEPE ───
 
 <br>
 
-### 📊 DISTRIBUIÇÃO DE LINGUAGENS MAIS USADAS
+### LINGUAGENS MAIS USADAS
 
-🎨 **CSS3** ─── 40%
+ **CSS3** ─── 40%
 ████████████████░░░░░░░░░░░░░░░░░░░░░░░░
 
-🐍 **Python** ── 35%
+ **Python** ── 35%
 ██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-🌐 **HTML5** ── 20%
+ **HTML5** ── 20%
 ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-🟨 **JavaScript** ─ 5%
+ **JavaScript** ─ 5%
 ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 <br>
 
-### 💻 TECNOLOGIAS E FERRAMENTAS
+### TECNOLOGIAS E FERRAMENTAS
 
 <p align="left">
   <img alt="HTML5" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,7 +29,7 @@
 
 <br>
 
-### 📊 LEVEL UP (ESTUDOS ATUAIS)
+### ESTUDOS ATUAIS
 
 * **HTML & CSS:** ██████▓▒░░ _[Intermediário]_
 * **Python:** ████▓▒░░░░ _[Básico]_
@@ -39,15 +37,15 @@
 
 <br>
 
-### 📁 PROJETOS EM DESTAQUE
+### PROJETOS EM DESTAQUE
 
-* 🎰 **[tartaruga-slots](https://github.com/Guspelepe/tartaruga-slots)** - **Projeto Integrador do Curso (SENAC).** Jogo de caça-níqueis interativo desenvolvido em equipe utilizando HTML, CSS e JavaScript puro para o front-end, integrado com um sistema de back-end.
-* 📂 **[Huddle_Page_com_CSS](https://github.com/Guspelepe/Huddle_Page_com_CSS)** - **DevQuest** Projeto prático focado em estilização e layout moderno utilizando CSS puro.
-* 📂 **[Pagina-De-Agencia](https://github.com/Guspelepe/Pagina-De-Agencia)** - Landing page completa desenvolvida para treinar estruturas web e responsividade.
+ **[tartaruga-slots](https://github.com/Guspelepe/tartaruga-slots)** - **Projeto Integrador do Curso (SENAC).** Jogo de caça-níqueis interativo desenvolvido em equipe utilizando HTML, CSS e JavaScript puro para o front-end, integrado com um sistema de back-end.
+ **[Huddle_Page_com_CSS](https://github.com/Guspelepe/Huddle_Page_com_CSS)** - **DevQuest** Projeto prático focado em estilização e layout moderno utilizando CSS puro.
+ **[Pagina-De-Agencia](https://github.com/Guspelepe/Pagina-De-Agencia)** - **DevQuest** Landing page completa desenvolvida para treinar estruturas web e responsividade.
 
 ---
 
-### 🌐 CONECTE-SE COMIGO
+### MEUS CONTATOS
 
 <p align="left">
   <a href="https://instagram.com/Guspelepe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23111?style=flat-square&logo=instagram&logoColor=bc2a8d" alt="Instagram"></a>
