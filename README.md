@@ -39,9 +39,9 @@
 
 ### PROJETOS EM DESTAQUE
 
- **[tartaruga-slots](https://github.com/Guspelepe/tartaruga-slots)** - **Projeto Integrador do Curso (SENAC).** Jogo de caça-níqueis interativo desenvolvido em equipe utilizando HTML, CSS e JavaScript puro para o front-end, integrado com um sistema de back-end.
- **[Huddle_Page_com_CSS](https://github.com/Guspelepe/Huddle_Page_com_CSS)** - **DevQuest** Projeto prático focado em estilização e layout moderno utilizando CSS puro.
- **[Pagina-De-Agencia](https://github.com/Guspelepe/Pagina-De-Agencia)** - **DevQuest** Landing page completa desenvolvida para treinar estruturas web e responsividade.
+* **[tartaruga-slots](https://github.com/Guspelepe/tartaruga-slots)** - **Projeto Integrador do Curso (SENAC).** Jogo de caça-níqueis interativo desenvolvido em equipe utilizando HTML, CSS e JavaScript puro para o front-end, integrado com um sistema de back-end.
+* **[Huddle_Page_com_CSS](https://github.com/Guspelepe/Huddle_Page_com_CSS)** - **DevQuest** Projeto prático focado em estilização e layout moderno utilizando CSS puro.
+* **[Pagina-De-Agencia](https://github.com/Guspelepe/Pagina-De-Agencia)** - **DevQuest** Landing page completa desenvolvida para treinar estruturas web e responsividade.
 
 ---
 
